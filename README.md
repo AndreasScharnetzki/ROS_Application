@@ -40,7 +40,7 @@ Ziel dieses Projektes war die Implementierung eines neuronalen Netzwerkes innerh
 ## Konzept artifizieller neuronaler Netze
 
 Artifizielle Neuronale Netzwerke entlehnen die Idee ihres Aufbaus der Neuroanatomie.
-Analog zum biologischen Vorbild, werden durch die Verschaltung vieler kleiner Funktionseinheiten (Neurone) komplexe Netze gewoben. Dies geschiet im Kontext des maschinellen Lernens in Schichten ('Layer').
+Analog zum biologischen Vorbild, werden durch die Verschaltung vieler kleiner Funktionseinheiten (Neurone) komplexe Netze gewoben. Dies geschiet im Kontext des maschinellen Lernens in Schichten (Layer).
 Diese artifiziellen neuronalen Netze (anN) lassen sich - entsprechendes Training vorausgesetzt - vielseitig, beispielsweise im Bereich der Mustererkennung und somit zur Klassifikation, einsetzen. 
 
 Die Wahl der Architektur hängt dabei von der zugrunde liegenden Aufgabe und dem Format der erhobenen Daten ab. (So eignen sich manche anN besser für die Unterscheidung von Bildern als zur Klassifikation akustischer Signale oder der Verarbeitung schriftlicher Sprache.) 
