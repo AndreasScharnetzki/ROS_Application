@@ -1,5 +1,10 @@
 # ROS_Application
 
+| Name          | Matrikelnummer  |
+| :------------ | --------------- |
+| Dennis Dominik Lehmann | 568827 |
+| Andreas Scharnetzki | 569275 |
+
 ## Inhaltsverzeichnis
 * [Kurzübersicht](#Kurzübersicht)
 
